@@ -132,7 +132,7 @@
  </table>
 <!--📏LINE-->
 <p align="center">
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="500">
 <!--🎨THEMEMODE / 🌐WEBSITE: https://fancytext.blogspot.com/ -->
 <h4 align="left">
 
