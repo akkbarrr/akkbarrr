@@ -67,11 +67,10 @@
 <img src="https://media.giphy.com/media/HHwI031emo0GQ/giphy.gif"  width="100px" height="100px">
 <!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=akkbarrr&show_icons=true&theme=merko"><img src="https://github-readme-streak-stats.herokuapp.com?user=akkbarrr&theme=merko&date_format=M%20j%5B%2C%20Y%5D">
-<!--📙LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=akkbarrr&theme=merko&date_format=M%20j%5B%2C%20Y%5D">
+<!--📙LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats ini yang di isi-->
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akkbarrr&layout=compact&theme=merko">
-<!--📛BADGES / 🌐WEBSITE: https://github.com/DenverCoder1/custom-icon-badges -->
+<!--📛BADGES / 🌐WEBSITE: https://github.com/DenverCoder1/custom-icon-badges ini yang di isi-->
 <p align="center">
   <a href="https://github.com/akkbarrr?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/akkbarrr"/></a><a href="https://github.com/akkbarrr?tab=followers"><a href="https://github.com/akkbarrr?tab=followers">
